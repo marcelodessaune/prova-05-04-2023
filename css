@@ -51,6 +51,7 @@ table {
     margin-left: 10%;
     background-color: rgb(187, 89, 89);
     margin-right: 5%;
+    margin-top: 0%;
 }
 
 td {
@@ -61,7 +62,7 @@ td {
 }
 
 table img {
-    width: 360px;
+    width: 200px;
     height: auto;
     margin: 20px;
 }
